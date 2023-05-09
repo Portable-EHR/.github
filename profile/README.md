@@ -13,9 +13,7 @@
 
   - [Java](https://github.com/Portable-EHR/PortableEHR-Feed-SDK)
   - [.Net](https://github.com/Portable-EHR/PortableEHR-Net-Feed-SDK)
-
-    #### 1.2.1 NodeJS
-
+  - NodeJS
     - [NodeCore](https://github.com/Portable-EHR/node-core)
     - [FeedCore](https://github.com/Portable-EHR/feed-core)
 
