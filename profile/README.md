@@ -9,12 +9,12 @@
   - [iOS (Objective-C)](https://github.com/Portable-EHR/PatientSDK-iOS)
 
 
-  ### 2.1 Feed
+  ### 1.2 Feed
 
   - [Java](https://github.com/Portable-EHR/PortableEHR-Feed-SDK)
   - [.Net](https://github.com/Portable-EHR/PortableEHR-Net-Feed-SDK)
 
-    #### 2.2 NodeJS
+    #### 1.2.1 NodeJS
 
     - [NodeCore](https://github.com/Portable-EHR/node-core)
     - [FeedCore](https://github.com/Portable-EHR/feed-core)
